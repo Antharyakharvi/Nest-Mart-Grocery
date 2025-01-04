@@ -1,0 +1,2 @@
+# Stop tracking .pack files with LFS
+# node_modules/.cache/default-development/*.pack filter=lfs diff=lfs merge=lfs -text
